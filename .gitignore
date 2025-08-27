@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>M&M BIM MANAGEMENT | Servicios</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>M&M BIM MANAGEMENT</h1>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="nosotros.html">Nosotros</a>
+      <a href="servicios.html">Servicios</a>
+      <a href="proyectos.html">Proyectos</a>
+      <a href="contacto.html">Contacto</a>
+    </nav>
+  </header>
+
+  <main style="padding:40px;">
+    <h2>Nuestros Servicios</h2>
+    <ul>
+      <li><b>Ingeniería y Arquitectura:</b> Aplicación de metodología BIM desde el diseño, integrando todas las especialidades en un modelo digital 3D.</li>
+      <li><b>Ejecución de Proyectos:</b> Uso de BIM 4D y 5D para gestionar tiempos y costos en tiempo real.</li>
+      <li><b>Consultoría:</b> Asesoría en implementación de sistemas integrales de gestión (ISO 9001, ISO 14001, OHSAS 18001) y expedientes técnicos BIM.</li>
+      <li><b>Educación:</b> Programas de capacitación en BIM para profesionales, estudiantes y empresas.</li>
+      <li><b>Financiamiento y Medio Ambiente:</b> Estudios de factibilidad, planes de negocios, certificaciones y asesoría en sostenibilidad.</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>© 2025 M&M BIM MANAGEMENT - Todos los derechos reservados</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>M&M BIM MANAGEMENT | Contacto</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>M&M BIM MANAGEMENT</h1>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="nosotros.html">Nosotros</a>
+      <a href="servicios.html">Servicios</a>
+      <a href="proyectos.html">Proyectos</a>
+      <a href="contacto.html">Contacto</a>
+    </nav>
+  </header>
+
+  <main style="padding:40px;">
+    <h2>Contáctanos</h2>
+    <p><b>Dirección:</b> Av. Circunvalación S/N, Urb. Pampa del Carmen – Chanchamayo – Junín</p>
+    <p><b>Gerente General:</b> Mg. Ing. Juan Carlos Mori Papuico – Cel: 978 574 043</p>
+    <p><b>Gerente Ejecutivo:</b> Ing. Anderson Mallqui Cárdenas – Cel: 958 464 688</p>
+    <p><b>Email:</b> m&mbimmanagement@gmail.com</p>
+    <form>
+      <input type="text" placeholder="Nombre"><br><br>
+      <input type="email" placeholder="Correo"><br><br>
+      <textarea placeholder="Mensaje"></textarea><br><br>
+      <button type="submit">Enviar</button>
+    </form>
+  </main>
+
+  <footer>
+    <p>© 2025 M&M BIM MANAGEMENT - Todos los derechos reservados</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>M&M BIM MANAGEMENT | Inicio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>M&M BIM MANAGEMENT</h1>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="nosotros.html">Nosotros</a>
+      <a href="servicios.html">Servicios</a>
+      <a href="proyectos.html">Proyectos</a>
+      <a href="contacto.html">Contacto</a>
+    </nav>
+  </header>
+
+  <main style="padding:40px; text-align:center;">
+    <h2>Innovación en Construcción con Metodología BIM</h2>
+    <p>Expertos en ingeniería, arquitectura, consultoría, educación y gerenciamiento de proyectos.</p>
+    <a href="nosotros.html" class="btn">Conócenos</a>
+  </main>
+
+  <footer>
+    <p>© 2025 M&M BIM MANAGEMENT - Todos los derechos reservados</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>M&M BIM MANAGEMENT | Nosotros</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>M&M BIM MANAGEMENT</h1>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="nosotros.html">Nosotros</a>
+      <a href="servicios.html">Servicios</a>
+      <a href="proyectos.html">Proyectos</a>
+      <a href="contacto.html">Contacto</a>
+    </nav>
+  </header>
+
+  <main style="padding:40px;">
+    <h2>Quiénes Somos</h2>
+    <p>M & M BIM MANAGEMENT está conformada por un equipo multidisciplinario de ingenieros, arquitectos y especialistas con amplia experiencia en proyectos de ingeniería, arquitectura, consultoría y construcción en diversos sectores.</p>
+    <p>Nuestra propuesta integra el BIM como eje transversal, aplicando técnicas constructivas de vanguardia, protocolos estrictos de seguridad y gestión ambiental, y un compromiso activo con la responsabilidad social.</p>
+    <p>Operamos de manera independiente o formando consorcios con empresas calificadas, entregando servicios que van desde el diagnóstico y modelado federado hasta la coordinación en obra y la entrega as-built, junto con programas de transferencia de capacidades para el cliente.</p>
+    <p>Nuestra gestión se sustenta en cuatro pilares: <b>Cumplimiento, Calidad, Seriedad y Eficiencia</b>.</p>
+
+    <h3>Misión</h3>
+    <p>Proveer soluciones integrales de ingeniería, arquitectura, consultoría y construcción, sustentadas en la gestión BIM, mediante servicios técnicamente rigurosos que garanticen ejecución eficiente, cumplimiento normativo y preservación ambiental; promoviendo la transferencia de capacidades al cliente y reduciendo riesgos y sobrecostos en cada proyecto.</p>
+
+    <h3>Visión</h3>
+    <p>Ser la firma de referencia regional en transformación digital de la construcción, reconocida por su excelencia técnica, liderazgo en BIM y compromiso con la innovación sostenible, contribuyendo a proyectos más transparentes, eficientes y socialmente responsables.</p>
+  </main>
+
+  <footer>
+    <p>© 2025 M&M BIM MANAGEMENT - Todos los derechos reservados</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>M&M BIM MANAGEMENT | Proyectos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>M&M BIM MANAGEMENT</h1>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="nosotros.html">Nosotros</a>
+      <a href="servicios.html">Servicios</a>
+      <a href="proyectos.html">Proyectos</a>
+      <a href="contacto.html">Contacto</a>
+    </nav>
+  </header>
+
+  <main style="padding:40px;">
+    <h2>Nuestros Proyectos</h2>
+    <p>Aquí se presentará una galería de proyectos con imágenes y descripciones.</p>
+    <p><a href="Dark Grey and Yellow Simple Construction Company Promotion Instagram Post (1).pdf" target="_blank" class="btn">📄 Descargar Portafolio en PDF</a></p>
+  </main>
+
+  <footer>
+    <p>© 2025 M&M BIM MANAGEMENT - Todos los derechos reservados</p>
+  </footer>
+</body>
+</html>
